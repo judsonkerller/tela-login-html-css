@@ -2,7 +2,7 @@
 
 ### Demo
 
-<img src="./img/login.png" height="500">
+<img src="./img/login.png">
 
 ### :pencil: Tecnologias
 
